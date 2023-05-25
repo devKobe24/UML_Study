@@ -1,2 +1,3 @@
 # UML_Study
-UML Study
+---
+[UML의 용도와 특징]()
